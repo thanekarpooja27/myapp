@@ -1,4 +1,5 @@
 runtime: custom
+service: myapp_service
 env: flex
 
 manual_scaling:
